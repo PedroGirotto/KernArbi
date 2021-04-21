@@ -21,4 +21,4 @@ Quinto Parâmetro:
 Sexto Parâmetro:
 	Se o usuário quer que as operções internas sejam imprimidas, isso inclui imprimir as matrizes, os determinantes das submatrizes principais.
 
-A função KernArbi retornará uma equação dependente de x e \[Lambda]
+A função KernArbi retornará uma equação dependente de x e Lambda
